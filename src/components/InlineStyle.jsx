@@ -20,7 +20,7 @@ export const InlineStyle = () => {
   };
   return (
     <div style={sontainerStyle}>
-      <p style={titleStyle}> - inline style -</p>
+      <p style={titleStyle}> - Inline style -</p>
       <button style={buttonStyle}>FIGHT!!</button>
     </div>
   );
