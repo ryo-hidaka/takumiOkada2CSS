@@ -1,2 +1,2 @@
-# takumiOkada2CSS
+# takumiOkada2Re-rendering
 Created with CodeSandbox
